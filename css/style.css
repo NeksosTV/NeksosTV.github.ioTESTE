@@ -60,12 +60,9 @@
 	transform: rotateX(90deg) translateZ(-150px);
 	z-index: -1;
   }
-   /* body {
-	width: 300px;
-	margin: 20px auto;
-	background: linear-gradient(to bottom, rgba(100, 100, 100, 0.2) 0%, rgba(255, 255, 255, 0.5) 40%, #ffffff 100%);
-	background-repeat: no-repeat;
-  }  */
+   body {
+	background-color:#b3ffff;
+  } 
   
   .stage {
 	width: 300px;
